@@ -1,0 +1,171 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:2:1-87:12
+INJECTED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:2:1-87:12
+INJECTED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:2:1-87:12
+	package
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:4:5-33
+		INJECTED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:2:11-69
+uses-feature#0x00030000
+ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:6:3-52
+	android:glEsVersion
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:6:17-49
+uses-permission#android.permission.INTERNET
+ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:8:3-65
+	android:name
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:8:20-62
+uses-feature#android.hardware.touchscreen
+ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:10:3-12:34
+	android:required
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:12:7-31
+	android:name
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:11:7-50
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:13:3-15:34
+	android:required
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:15:7-31
+	android:name
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:14:7-61
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:16:3-18:34
+	android:required
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:18:7-31
+	android:name
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:17:7-70
+uses-permission#android.permission.CAMERA
+ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:20:3-63
+	android:name
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:20:20-60
+uses-feature#android.hardware.camera.ar
+ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:22:3-24:33
+	android:required
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:24:7-30
+	android:name
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:23:7-48
+uses-feature#com.google.ar.core.depth
+ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:25:3-27:33
+	android:required
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:27:7-30
+	android:name
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:26:7-46
+application
+ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:29:3-85:17
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:30:5-51:16
+	android:screenOrientation
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:37:9-47
+	android:launchMode
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:35:9-40
+	android:hardwareAccelerated
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:34:9-44
+	android:exported
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:33:9-32
+	android:resizeableActivity
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:36:9-43
+	android:configChanges
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:32:9-190
+	android:theme
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:38:9-50
+	android:name
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:31:9-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:39:7-43:23
+action#android.intent.action.MAIN
+ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:40:9-61
+	android:name
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:40:17-58
+category#android.intent.category.LAUNCHER
+ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:42:9-69
+	android:name
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:42:19-66
+meta-data#unityplayer.UnityActivity
+ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:45:7-47:34
+	android:value
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:47:11-31
+	android:name
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:46:11-51
+meta-data#android.notch_support
+ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:48:7-50:34
+	android:value
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:50:11-31
+	android:name
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:49:11-47
+activity#com.unity3d.player.TouchControllActivity
+ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:53:5-54:58
+	android:name
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:54:9-46
+service#com.unity3d.player.NotificationListener
+ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:55:5-62:15
+	android:exported
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:57:9-32
+	android:permission
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:58:9-83
+	android:name
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:56:9-45
+intent-filter#action:name:android.service.notification.NotificationListenerService
+ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:59:7-61:23
+action#android.service.notification.NotificationListenerService
+ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:60:9-91
+	android:name
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:60:17-88
+meta-data#unity.splash-mode
+ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:64:5-66:29
+	android:value
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:66:9-26
+	android:name
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:65:9-41
+meta-data#unity.splash-enable
+ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:67:5-69:32
+	android:value
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:69:9-29
+	android:name
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:68:9-43
+meta-data#unity.allow-resizable-window
+ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:70:5-72:33
+	android:value
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:72:9-30
+	android:name
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:71:9-52
+meta-data#notch.config
+ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:73:5-75:46
+	android:value
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:75:9-43
+	android:name
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:74:9-36
+meta-data#unity.build-id
+ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:76:5-78:64
+	android:value
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:78:9-61
+	android:name
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:77:9-38
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:79:5-81:32
+	android:value
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:81:9-29
+	android:name
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:80:9-57
+meta-data#com.google.ar.core
+ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:82:5-84:36
+	android:value
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:84:9-33
+	android:name
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml:83:9-42
+uses-sdk
+INJECTED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from E:\WorkSpace\finall08\unityLibrary\src\main\AndroidManifest.xml

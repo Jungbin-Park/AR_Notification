@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00000000">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="1"
+        android:layout_gravity="bottom">
+        <!--    tools:context=".TouchControllActivity"-->
+
+        <ToggleButton
+            android:id="@+id/NotiOnOff"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:background="@drawable/ic_baseline_notifications_active_32"
+            android:checked="true"
+            android:textColor="#55555555"
+            android:layout_margin="10dp"
+            android:textOff="Off"
+            android:textOn="On" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1"/>
+        <RadioGroup
+            android:id="@+id/color_group"
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <RadioButton
+                android:id="@+id/btnTextColorRed"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:text="Red"
+                android:background="@drawable/selector_radio_button_red"
+                android:button="@null"
+                android:textColor="#D05C5C"
+                android:textAlignment="center"
+                android:paddingLeft="24dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="5dp"/>
+
+            <RadioButton
+                android:id="@+id/btnTextColorGreen"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:text="Green"
+                android:background="@drawable/selector_radio_button_green"
+                android:button="@null"
+                android:textColor="#68D05C"
+                android:textAlignment="center"
+                android:paddingLeft="18dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="5dp"/>
+
+            <RadioButton
+                android:id="@+id/btnTextColorBlue"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:text="Blue"
+                android:background="@drawable/selector_radio_button_blue"
+                android:button="@null"
+                android:textColor="#436CEC"
+                android:textAlignment="center"
+                android:paddingLeft="22dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="5dp"/>
+
+            <RadioButton
+                android:id="@+id/btnTextColorWhite"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:text="White"
+                android:background="@drawable/selector_radio_button_white"
+                android:button="@null"
+                android:textColor="#D3D3D3"
+                android:textAlignment="center"
+                android:paddingLeft="18dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="5dp"/>
+
+        </RadioGroup>
+
+        <!--        <Button-->
+<!--            android:id="@+id/btnTextColorRed"-->
+<!--            android:layout_width="70dp"-->
+<!--            android:layout_height="70dp"-->
+<!--            android:background="@drawable/ic_baseline_brush_default_32"-->
+<!--            android:layout_marginTop="10dp"-->
+<!--            android:layout_marginRight="5dp"/>-->
+<!--        <Button-->
+<!--            android:id="@+id/btnTextColorGreen"-->
+<!--            android:layout_width="70dp"-->
+<!--            android:layout_height="70dp"-->
+<!--            android:background="@drawable/ic_baseline_brush_default_32"-->
+<!--            android:layout_marginTop="10dp"-->
+<!--            android:layout_marginRight="5dp"/>-->
+<!--        <Button-->
+<!--            android:id="@+id/btnTextColorBlue"-->
+<!--            android:layout_width="70dp"-->
+<!--            android:layout_height="70dp"-->
+<!--            android:background="@drawable/ic_baseline_brush_default_32"-->
+<!--            android:layout_marginTop="10dp"-->
+<!--            android:layout_marginRight="5dp"/>-->
+<!--        <Button-->
+<!--            android:id="@+id/btnTextColorWhite"-->
+<!--            android:layout_width="70dp"-->
+<!--            android:layout_height="70dp"-->
+<!--            android:background="@drawable/ic_baseline_brush_default_32"-->
+<!--            android:layout_marginTop="10dp"-->
+<!--            android:layout_marginBottom="10dp"-->
+<!--            android:layout_marginRight="5dp"/>-->
+
+    </LinearLayout>
+</FrameLayout>

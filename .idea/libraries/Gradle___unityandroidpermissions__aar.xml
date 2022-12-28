@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: :unityandroidpermissions:@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/84bb495eb7a049952462e4a21d0cbda0/transformed/unityandroidpermissions/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8cb1ec85e0a8b837d9839e3e1146711b/transformed/unityandroidpermissions/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8cb1ec85e0a8b837d9839e3e1146711b/transformed/unityandroidpermissions/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8cb1ec85e0a8b837d9839e3e1146711b/transformed/unityandroidpermissions/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

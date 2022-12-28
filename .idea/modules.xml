@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/finall08.iml" filepath="$PROJECT_DIR$/.idea/modules/finall08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/finall08.launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/finall08.launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/finall08.launcher.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/finall08.launcher.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/finall08.launcher.main.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/finall08.launcher.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/finall08.launcher.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/finall08.launcher.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibrary/finall08.unityLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibrary/finall08.unityLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibrary/finall08.unityLibrary.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibrary/finall08.unityLibrary.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibrary/finall08.unityLibrary.main.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibrary/finall08.unityLibrary.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibrary/finall08.unityLibrary.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibrary/finall08.unityLibrary.unitTest.iml" />
+    </modules>
+  </component>
+</project>

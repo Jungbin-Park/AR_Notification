@@ -1,0 +1,22 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_baseline_brush_blue_32
+drawable ic_baseline_brush_default_32
+drawable ic_baseline_brush_green_32
+drawable ic_baseline_brush_red_32
+drawable ic_baseline_notifications_active_32
+drawable ic_baseline_notifications_off_32
+drawable selector_radio_button_blue
+drawable selector_radio_button_green
+drawable selector_radio_button_red
+drawable selector_radio_button_white
+id NotiOnOff
+id btnTextColorBlue
+id btnTextColorGreen
+id btnTextColorRed
+id btnTextColorWhite
+id color_group
+layout activity_touch_controll
+style BaseUnityTheme
+style UnityThemeSelector
+style UnityThemeSelector.Translucent
